@@ -2860,7 +2860,7 @@ button.btn.btn-mini, input[type="submit"].btn.btn-mini {
 	float: left;
 	display: block;
     	margin-left: -50px;
-    	margin-top: 10px;
+    	margin-top: -5px;
 	font-size: 20px;
 	font-weight: 200;
 	color: #777777;
